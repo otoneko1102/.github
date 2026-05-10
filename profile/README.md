@@ -21,7 +21,7 @@ Please visit my new page: [@otnc](https://github.com/otnc)
 ここは案内所のようなところです。
 
 `otoneko1102` は古いユーザーネームです。  
-新しいアカウントはこちらをご覧ください：[@otnc](https://github.com/otnc)
+新しいアカウントをご覧ください：[@otnc](https://github.com/otnc)
 
 > [!Important]
 >   
